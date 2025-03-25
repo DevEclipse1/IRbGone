@@ -1,4 +1,5 @@
-# IRbGone
-turn off most major tv brands and some other cool stuff like projectors
+IRbGone Disclaimer
 
-I DO NOT TAKE ANY RESPONSIBILITY FOR THE USE OF THIS, THIS IS JUST FOR EDUCATIONAL PURPOSES
+IRbGone is a tool designed to interact with and turn off most major TV brands and certain other electronics like projectors. 
+This software is intended for educational and informational purposes only. 
+By using IRbGone, you acknowledge and agree that you are solely responsible for the actions performed with this tool.
