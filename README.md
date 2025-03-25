@@ -12,3 +12,4 @@ You agree that any action you take with IRbGone is done entirely at your own ris
 The software is provided "as-is," without any warranties of any kind, express or implied.</i>
 
 ![Showcase 0](https://github.com/DevEclipse1/IRbGone/blob/main/IMG_3110-ezgif.com-optimize.gif?raw=true)
+![Showcase 1](https://github.com/DevEclipse1/IRbGone/blob/main/IMG_3111-ezgif.com-optimize%20(2).gif?raw=true)
