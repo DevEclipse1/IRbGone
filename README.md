@@ -11,4 +11,4 @@ You agree that any action you take with IRbGone is done entirely at your own ris
 
 The software is provided "as-is," without any warranties of any kind, express or implied.</i>
 
-![LG TV](https://i.imgur.com/e5BZqyR.gif)
+<img src="https://i.imgur.com/e5BZqyR.gif">
