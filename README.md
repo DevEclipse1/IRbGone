@@ -10,3 +10,5 @@ The author of this software, as well as any contributors, shall not be held liab
 You agree that any action you take with IRbGone is done entirely at your own risk. The author does not endorse any unlawful activity or behavior related to this tool. Always ensure that you have permission to control the devices you interact with using IRbGone. Use it responsibly and within legal and ethical boundaries.
 
 The software is provided "as-is," without any warranties of any kind, express or implied.</i>
+
+(https://github.com/DevEclipse1/IRbGone/blob/main/IMG_3110.gif)
