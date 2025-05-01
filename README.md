@@ -1,4 +1,7 @@
 # IRbGone
+<b>
+V2 RELEASED: ![CLICK HERE FOR V2](https://github.com/DevEclipse1/IRbGone/tree/V2)
+</b>b>
 
 IRbGone is a tool designed to interact with and turn off most major TV brands and certain other electronics like projectors. 
 This software is intended for educational and informational purposes only. 
