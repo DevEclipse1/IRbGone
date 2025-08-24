@@ -12,6 +12,6 @@ You agree that any action you take with IRbGone is done entirely at your own ris
 The software is provided "as-is," without any warranties of any kind, express or implied.</i>
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/DevEclipse1/IRbGone/blob/main/showcase1.gif?raw=true" width="200px">
+  <img src="https://github.com/DevEclipse1/IRbGone/blob/main/showcase1.gif" width="200px">
   <img src="https://github.com/DevEclipse1/IRbGone/blob/main/showcase2.gif?raw=true" width="200px">
 </div>
